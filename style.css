@@ -1,0 +1,49 @@
+/* style.css */
+/* Main body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Navigation menu styling */
+nav {
+    background-color: #1e90ff;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Navigation links styling */
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Header and footer styling */
+header, footer {
+    background-color: #e0e8f0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Headings styling */
+h1, h2, h3 {
+    color: #1e90ff;
+}
+
+/* Images styling */
+img {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
